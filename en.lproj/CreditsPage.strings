@@ -11,10 +11,10 @@
 	<key>TWITTERBETATESTER_FOOTERTEXT</key>
 	   <string>My private beta tester :)</string>
 
-	<key>TWITTERHELP_FOOTERTEXT</key>
+	<key>TWITTERHELP1_FOOTERTEXT</key>
 	   <string>He taught me how to compile a tweak for 64 bits devices.</string>
 
-	<key>REDDITHELP_FOOTERTEXT</key>
+	<key>TWITTERHELP2_FOOTERTEXT</key>
 	   <string>He asked me if he can send me some helpful code for my tweak</string>
 
 	<key>REDDITJAILBREAKDEVELOPERS_FOOTERTEXT</key>

@@ -70,5 +70,8 @@
 
 	<key>PREVIEW</key>
 	   <string>Prévisualiser</string>
+	
+	<key>SHARE</key>
+	   <string>#EventOnStart est un des meilleurs tweaks Cydia ! Téléchargez-le maintenant !</string>
 </dict>
 </plist>

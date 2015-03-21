@@ -6,19 +6,19 @@
 	   <string>Enabled</string>
 
 	<key>VIBRATION_FOOTERTEXT</key>
-	   <string>This will create a vibration at startup.</string>
+	   <string>Makes your iPhone vibrate on startup.</string>
 
 	<key>VIBRATION</key>
 	   <string>Vibration</string>
 
 	<key>FLASH_FOOTERTEXT</key>
-	   <string>This will create a flash at startup.</string>
+	   <string>Makes your iPhone's camera flash blink on startup.</string>
 
 	<key>FLASH</key>
 	   <string>Flashlight</string>
 
 	<key>SOUND_FOOTERTEXT</key>
-	   <string>This will play a sound at startup. You can choose your sound in the 'Sound List' menu.</string>
+	   <string>Plays a sound on startup. The sound can be chosen in the 'Sound List' menu.</string>
 
 	<key>SOUND</key>
 	   <string>Sound</string>
@@ -27,7 +27,7 @@
 	   <string>Sound List</string>
 
 	<key>WELCOME_FOOTERTEXT</key>
-	   <string>This will show a pop-up message. You can enter your text in the 'Welcome Text' menu.</string>
+	   <string>This will show a pop-up message. You can enter a custom string in the 'Welcome Text' menu.</string>
 
 	<key>WELCOME</key>
 	   <string>Welcome Message</string>
@@ -45,7 +45,7 @@
 	   <string>Email Support</string>
 
 	<key>REDDIT</key>
-	   <string>Found me on Reddit (/u/Ziph0n)</string>
+	   <string>Find me on Reddit (/u/Ziph0n)</string>
 
 	<key>DONATE_FOOTERTEXT</key>
 	   <string>If you appreciate my work, please use this button to donate to me ;)</string>
@@ -60,7 +60,7 @@
 	   <string>Created by Ziph0n</string>
 
 	<key>DESCRIPTION</key>
-	   <string>Create event at startup!</string>
+	   <string>Intiate an event on startup!</string>
 
 	<key>OPTIONS</key>
 	   <string>Options</string>
@@ -72,7 +72,7 @@
 	   <string>Preview</string>
 
 	<key>SHARE</key>
-	   <string>#EventOnStart is one of the best Cydia tweak! Download it now!</string>
+	   <string>I'm using #EventOnStart, an awesome Cydia tweak by Ziph0n. Get it now!</string>
 	   
 	<key>DISMISS</key>
 	   <string>Dismiss</string>

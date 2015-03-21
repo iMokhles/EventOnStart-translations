@@ -56,5 +56,22 @@
 	<key>CREDITS</key>
 	   <string>Credits</string>
 
+	<key>CREATEDBYME</key>
+	   <string>Created by Ziph0n</string>
+
+	<key>DESCRIPTION</key>
+	   <string>Create event at startup!</string>
+
+	<key>OPTIONS</key>
+	   <string>Options</string>
+
+	<key>ABOUT</key>
+	   <string>About</string>
+
+	<key>PREVIEW</key>
+	   <string>Preview</string>
+
+	<key>SHARE</key>
+	   <string>#EventOnStart is one of the best Cydia tweak! Download it now!</string>
 </dict>
 </plist>

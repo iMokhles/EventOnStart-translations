@@ -55,5 +55,20 @@
 
 	<key>CREDITS</key>
 	   <string>Crédits</string>
+
+	<key>CREATEDBYME</key>
+	   <string>Conçu par Ziph0n</string>
+
+	<key>DESCRIPTION</key>
+	   <string>Crée des évenements au démarrage !</string>
+
+	<key>OPTIONS</key>
+	   <string>Options</string>
+
+	<key>ABOUT</key>
+	   <string>A Propos</string>
+
+	<key>PREVIEW</key>
+	   <string>Prévisualiser</string>
 </dict>
 </plist>

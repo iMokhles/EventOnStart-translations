@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLED</key>
+	   <string>تفعيل</string>
+
+	<key>VIBRATION_FOOTERTEXT</key>
+	   <string>جعل الاي فون يهتز عندد التشغيل</string>
+
+	<key>VIBRATION</key>
+	   <string>إهتزاز</string>
+
+	<key>FLASH_FOOTERTEXT</key>
+	   <string>جعل فلاش الكاميرا يضئ لمه عند تشغيل الجهاز</string>
+
+	<key>FLASH</key>
+	   <string>فلاش الكاميرا</string>
+
+	<key>SOUND_FOOTERTEXT</key>
+	   <string>جعل الجهاز يصدر صوت عند التشغيل, تستطيع اختيار صوت من قائمه الاصوات</string>
+
+	<key>SOUND</key>
+	   <string>صوت</string>
+
+	<key>SOUNDLIST</key>
+	   <string>قائمه الاصوات</string>
+
+	<key>WELCOME_FOOTERTEXT</key>
+	   <string>إظهار رسالة ترحيب عند تشغيل الجهاز, تستطيع تغير الرساله من قائمة نص الترحيب</string>
+
+	<key>WELCOME</key>
+	   <string>رسالة الترحيب</string>
+
+	<key>WELCOME_MENU</key>
+	   <string>نص الترحيب</string>
+
+	<key>GITHUB</key>
+	   <string>GitHub شوف المصدر في</string>
+
+	<key>TWITTER</key>
+	   <string>تايعني على التويتر</string>
+
+	<key>EMAIL</key>
+	   <string>ايميل الدعم</string>
+
+	<key>REDDIT</key>
+	   <string>(/u/Ziph0n) reddit اجدني في</string>
+
+	<key>DONATE_FOOTERTEXT</key>
+	   <string>إذا كنت تقدر عملي, استخدم هذا الزر لدعمي</string>
+
+	<key>DONATE</key>
+	   <string>ادعمني</string>
+
+	<key>CREDITS</key>
+	   <string>حقوق</string>
+
+	<key>CREATEDBYME</key>
+	   <string>Ziph0n طورت بواسطة</string>
+
+	<key>DESCRIPTION</key>
+	   <string>عدة اوامر عند تشغيل الجهاز</string>
+
+	<key>OPTIONS</key>
+	   <string>خيارات</string>
+
+	<key>ABOUT</key>
+	   <string>حول</string>
+
+	<key>PREVIEW</key>
+	   <string>معاينة</string>
+
+	<key>SHARE</key>
+	   <string>احصل عليها الان Ziph0n اداة سيديا رائعة بواسطة #EventOnStart استخدم اداة</string>
+	   
+	<key>DISMISS</key>
+	   <string>غلق</string>
+</dict>
+</plist>

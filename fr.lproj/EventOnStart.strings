@@ -73,5 +73,8 @@
 	
 	<key>SHARE</key>
 	   <string>#EventOnStart est un des meilleurs tweak Cydia ! Téléchargez-le maintenant !</string>
+	   
+	<key>DISMISS</key>
+	   <string>OK</string>
 </dict>
 </plist>
